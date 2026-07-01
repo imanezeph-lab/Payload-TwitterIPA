@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>grok_check</title>
+    <defs>
+        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="path-1"></path>
+    </defs>
+    <g id="grok_check" stroke="none" fill="none" fill-rule="nonzero">
+        <g id="Frame" xlink:href="#path-1" fill="#FFFFFF">
+            <polygon id="Path" points="18.2 5.4 19.8 6.6 10.8 18.6 10.1222887 19.503615 9.30746817 18.7213873 4.30746817 13.9213873 5.69253183 12.4786127 9.878 16.496"></polygon>
+        </g>
+    </g>
+</svg>

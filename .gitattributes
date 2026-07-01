@@ -1,0 +1,2 @@
+*.ipa filter=lfs diff=lfs merge=lfs -text
+Twitter.app/Frameworks/TwitterSPMMigration.framework/TwitterSPMMigration filter=lfs diff=lfs merge=lfs -text
